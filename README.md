@@ -23,7 +23,7 @@ Start the node server
 node server/
 ```
 
-Make an RPC call from the node client
+Make a RPC call from the node client
 
 
 ```bash
