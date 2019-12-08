@@ -3,19 +3,19 @@
 ## Basic end to end implementation of grpc in nodejs
 
 
-##Clone the repository
+## Clone the repository
 
 ``` bash
 $ git clone https://github.com/thaDev404/grpc-nodejs-client-server.git
 ```
 
-Install npm packages
+## Install npm packages
 
 ``` bash
 $ npm install
 ```
 
-##Usage
+## Usage
 
 Start the node server
 
