@@ -1,0 +1,18 @@
+syntax = "proto3"; //Specify proto3 version.
+
+package thin_grpc; //Optional: unique package name.
+
+//Service. define the methods that the grpc server can expose to the client.
+service ThinGrpcService {
+  rpc GetTimestsampedData(ClientRequest) returns (ServerResponse) {}
+}
+
+// type definition for request message
+message ClientRequest {
+  string name = 1;
+}
+
+// Message Type definition for response.
+message ServerResponse {
+  string response = 1;
+}

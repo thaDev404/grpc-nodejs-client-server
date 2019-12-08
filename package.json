@@ -1,0 +1,29 @@
+{
+  "name": "grpc-nodejs-client-server",
+  "version": "1.0.0",
+  "description": "Basic end to end implementation of gRPC in nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grpc",
+    "protocol",
+    "buffers",
+    "rpc"
+  ],
+  "author": "Oluwatobiloba Olusoga",
+  "license": "MIT",
+  "dependencies": {
+    "grpc": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaDev404/grpc-nodejs-client-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thaDev404/grpc-nodejs-client-server/issues"
+  },
+  "homepage": "https://github.com/thaDev404/grpc-nodejs-client-server#readme"
+}
