@@ -27,7 +27,7 @@ Make an RPC call from the node client
 
 
 ```bash
-node client/node
+node client/
 ```
 
 ## License
