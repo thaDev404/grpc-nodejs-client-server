@@ -1,10 +1,9 @@
 # grpc-nodejs-client-server
-Basic end to end implementation of grpc in nodejs
-## Implementing Remote Procedure Calls With gRPC and Protocol Buffers
+
+## Basic end to end implementation of grpc in nodejs
 
 
-##Install
-Clone the repository
+##Clone the repository
 
 ``` bash
 $ git clone https://github.com/thaDev404/grpc-nodejs-client-server.git
@@ -30,20 +29,6 @@ Make an RPC call from the node client
 ```bash
 node client/node
 ```
-
-## Contributing
-
-Contributions are **welcome** and will be fully **credited**.
-
-We accept contributions via Pull Requests on [Github](https://github.com/johnkariuki/grpc-protobuf-tutorial).
-
-## Security
-
-If you discover any security related issues, please email me at [John Kariuki](johnkariukin@gmail.com) or create an issue.
-
-## Credits
-
-[John kariuki](https://github.com/johnkariuki)
 
 ## License
 
